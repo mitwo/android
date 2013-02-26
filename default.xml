@@ -332,9 +332,9 @@
   <project path="external/wpa_supplicant_8" name="Andromadus/android_external_wpa_supplicant_8" remote="github" revision="jb4.2" />
   <project path="system/vold" name="Andromadus/android_system_vold" remote="github" revision="jb4.2" />
 
-  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="mr1-staging" />
-  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="mr1-staging" />
-  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="mr1-staging" />
+  <project path="packages/apps/Superuser" name="CyanogenMod/android_packages_apps_Superuser" remote="github" revision="cm10.1" />
+  <project path="system/su" name="CyanogenMod/android_system_su" remote="github" revision="cm10.1" />
+  <project path="external/busybox" name="CyanogenMod/android_external_busybox" remote="github" revision="cm10.1" />
   <project path="hardware/qcom/gps" name="CyanogenMod/android_hardware_qcom_gps" remote="github" revision="jellybean" />
 
 </manifest>
