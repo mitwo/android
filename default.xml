@@ -109,8 +109,8 @@
   <project path="external/jsr305" name="CyanogenMod/android_external_jsr305" />
   <project path="external/junit" name="CyanogenMod/android_external_junit" />
   <project path="external/kernel-headers" name="CyanogenMod/android_external_kernel-headers" />
-  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" />
-  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" />
+  <project path="external/koush/Superuser" name="CyanogenMod/Superuser" revision="cm-10.1" />
+  <project path="external/koush/Widgets" name="CyanogenMod/Widgets" revision="cm-10.1" />
   <project path="external/libffi" name="CyanogenMod/android_external_libffi" />
   <project path="external/libgsm" name="CyanogenMod/android_external_libgsm" />
   <project path="external/liblzf" name="CyanogenMod/android_external_liblzf" />
