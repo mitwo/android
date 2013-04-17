@@ -343,10 +343,10 @@
   <project path="vendor/tmobile" name="ParanoidAndroid/android_vendor_tmobile" remote="github" revision="jellybean" />
 
   <!-- Andromadus - Motorola 8960 Support -->
-  <project path="device/motorola/msm8960-common" name="Andromadus/android_device_motorola_msm8960-common" />
-  <project path="device/motorola/vanquish-common" name="Andromadus/android_device_motorola_vanquish-common" />
-  <project path="device/motorola/xt926" name="Andromadus/android_device_motorola_xt926" />
-  <project path="kernel/motorola/msm8960-common" name="Andromadus/android_kernel_motorola_msm8960-common" />
-  <project path="vendor/motorola/xt926" name="Andromadus/android_vendor_motorola_xt926" />
+  <project path="device/motorola/msm8960-common" name="Andromadus/android_device_motorola_msm8960-common" remote="github" revision="cm-10.1" />
+  <project path="device/motorola/vanquish-common" name="Andromadus/android_device_motorola_vanquish-common" remote="github" revision="cm-10.1" />
+  <project path="device/motorola/xt926" name="Andromadus/android_device_motorola_xt926" remote="github" revision="cm-10.1" />
+  <project path="kernel/motorola/msm8960-common" name="Andromadus/android_kernel_motorola_msm8960-common" remote="github" revision="cm-10.1" />
+  <project path="vendor/motorola/xt926" name="Andromadus/android_vendor_motorola_xt926" remote="github" revision="cm-10.1" />
   
 </manifest>
