@@ -6,7 +6,7 @@
            review="https://android-review.googlesource.com/" />
 
   <remote  name="github"
-           fetch="https://github.com"
+           fetch=".."
            review="gerrit.androidninjas.com:8181"
            revision="jellybean" />
 
