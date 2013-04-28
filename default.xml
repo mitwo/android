@@ -375,10 +375,10 @@
   <project path="vendor/tmobile/products/themes" name="CyanogenMod/android_vendor_tmobile_products_themes" />
 
   <!-- Andromadus - Motorola 8960 Support -->
-  <project path="device/motorola/msm8960-common" name="Andromadus/android_device_motorola_msm8960-common" />
-  <project path="device/motorola/vanquish-common" name="Andromadus/android_device_motorola_vanquish-common" />
-  <project path="device/motorola/xt926" name="Andromadus/android_device_motorola_xt926" />
-  <project path="kernel/motorola/msm8960-common" name="Andromadus/android_kernel_motorola_msm8960-common" />
-  <project path="vendor/motorola/xt926" name="Andromadus/android_vendor_motorola_xt926" />
+  <project path="device/motorola/msm8960-common" name="razrqcom-dev-team/android_device_motorola_msm8960-common" />
+  <project path="device/motorola/vanquish-common" name="razrqcom-dev-team/android_device_motorola_vanquish-common" />
+  <project path="device/motorola/xt926" name="razrqcom-dev-team/android_device_motorola_xt926" />
+  <project path="kernel/motorola/msm8960-common" name="razrqcom-dev-team/android_kernel_motorola_msm8960-common" />
+  <project path="vendor/motorola/xt926" name="razrqcom-dev-team/android_vendor_motorola_xt926" />
 
 </manifest>
