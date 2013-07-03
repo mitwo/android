@@ -376,6 +376,8 @@
   <project path="hardware/qcom/audio-caf" name="Andromadus/android_hardware_qcom_audio-caf" remote="github" revision="cm10.1" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="cm10.1" />
   <project path="hardware/qcom/media-caf" name="Andromadus/android_hardware_qcom_media-caf" remote="github" revision="cm10.1" />
+  <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="github" revision="cm10.1" />
+
   <project path="kernel/htc/msm7x30-3.0" name="Andromadus/htc7x30-3.0" remote="github" revision="andromadus" />
   <project path="packages/apps/Camera" name="Andromadus/android_packages_apps_Camera" remote="github" revision="cm10.1-tolerance" />
 
