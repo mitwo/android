@@ -241,6 +241,7 @@
   <project path="frameworks/ex" name="CyanogenMod/android_frameworks_ex" />
   <project path="frameworks/mff" name="CyanogenMod/android_frameworks_mff" />
   <project path="frameworks/ml" name="CyanogenMod/android_frameworks_ml" />
+  <project path="frameworks/native" name="CyanogenMod/android_frameworks_native" />
   <project path="frameworks/opt/calendar" name="CyanogenMod/android_frameworks_opt_calendar" />
   <project path="frameworks/opt/carddav" name="CyanogenMod/android_frameworks_opt_carddav" />
   <project path="frameworks/opt/colorpicker" name="CyanogenMod/android_frameworks_opt_colorpicker" />
@@ -417,7 +418,6 @@
   <project path="vendor/htc/saga" name="Andromadus/proprietary_htc_saga" remote="github" revision="jb4.2" />
   <project path="device/htc/msm7x30-common" name="Andromadus/android_device_htc_msm7x30-common" remote="github" revision="cm10.2" />
   <project path="frameworks/base" name="Andromadus/android_frameworks_base" remote="github" revision="cm10.2" />
-  <project path="frameworks/native" name="Andromadus/android_frameworks_native" remote="github" revision="cm10.2" />
   <project path="hardware/qcom/display" name="Andromadus/android_hardware_qcom_display" remote="github" revision="cm10.2" />
   <project path="hardware/qcom/media" name="Andromadus/android_hardware_qcom_media" remote="github" revision="cm10.2" />
 
