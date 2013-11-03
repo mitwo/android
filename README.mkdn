@@ -1,15 +1,19 @@
+This is a fork of Andromadus' Android repo, with my own stuff added.
+
+The following part is the readme as supplied by Flinny, modified for my own repo.
+
 Andromadus
 ===========
 
 Getting Started
 ---------------
 
-To get started with Android/Androamdus, you'll need to get
+To get started with this repo, you'll need to get
 familiar with [Git and Repo](http://source.android.com/download/using-repo).
 
-To initialize your local repository using the Andromadus trees, use a command like this:
+To initialize your local repository using this tree, use a command like this:
 
-    repo init -u git://github.com/Andromadus/android.git -b cm10.2
+    repo init -u git://github.com/jdeluyck/android.git -b cm10.2
 
 Then to sync up:
 
