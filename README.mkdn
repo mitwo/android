@@ -2,8 +2,6 @@ This is a fork of Andromadus' Android repo, with my own stuff added.
 
 The following part is the readme as supplied by Flinny, modified for my own repo.
 
-Andromadus
-===========
 
 Getting Started
 ---------------
