@@ -4,12 +4,9 @@ Andromadus
 Getting Started
 ---------------
 
-To get started with Android/Androamdus, you'll need to get
-familiar with [Git and Repo](http://source.android.com/download/using-repo).
+For G14/G19'S Local-manifest to build other roms, use a command like this:
 
-To initialize your local repository using the Andromadus trees, use a command like this:
-
-    repo init -u git://github.com/Andromadus/android.git -b cm10.1
+    repo init -u git://github.com/mitwo/android.git -b cm10.1
 
 Then to sync up:
 
